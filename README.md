@@ -10,9 +10,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="" alt="project-screenshot" width="400" height="400/">
-
-  
+<img width="1470" height="798" alt="Screenshot 2025-11-26 at 11 32 41 PM" src="https://github.com/user-attachments/assets/afcc6ac2-cd0b-4330-afea-a2b5d1f01d0c" />
+<img width="1470" height="798" alt="Screenshot 2025-11-26 at 11 32 57 PM" src="https://github.com/user-attachments/assets/0d1ca934-de65-42ae-a62e-459ad2241e30" />
+<img width="1470" height="798" alt="Screenshot 2025-11-26 at 11 33 14 PM" src="https://github.com/user-attachments/assets/2b3f94ba-9c46-4033-99c8-7a978e83483e" />
   
 <h2>🧐 Features</h2>
 
@@ -36,7 +36,7 @@ git clone [https://github.com/cooleditingx/odin-resturant.git](https://github.co
 
 <p>2. Open the Index File:</p>
 Since this is a client-side web application, you only need to open the index.html file in your web browser.
-*  
+
 *   Alternatively, for best performance and to avoid any cross-origin issues with assets, you can run a simple local server using Python or VS Code extensions:
 
 

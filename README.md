@@ -36,7 +36,8 @@ git clone [https://github.com/cooleditingx/odin-resturant.git](https://github.co
 
 <p>2. Open the Index File:</p>
 Since this is a client-side web application, you only need to open the index.html file in your web browser.
-*  Alternatively, for best performance and to avoid any cross-origin issues with assets, you can run a simple local server using Python or VS Code extensions:
+*  
+*   Alternatively, for best performance and to avoid any cross-origin issues with assets, you can run a simple local server using Python or VS Code extensions:
 
 
 ```
